@@ -1,0 +1,30 @@
+.button-logoff {
+    background-color: #358a37; 
+    color: #fff; 
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+
+}
+
+.text-title{
+    font-size: 50px;
+    color: #18491b;
+    margin-bottom: 20px;
+    margin-top: -50px;
+    margin-left: 1125px;
+    display: flex;
+    position: absolute;
+}
+
+.text-p{
+    font-size: 25px;
+    color: #666;
+    line-height: 1.5;
+    padding-top: 60px;
+    margin-left: 775px;
+    display: flex;
+}
